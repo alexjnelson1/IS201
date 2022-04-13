@@ -1,0 +1,38 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 25%;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+    font-weight: bold;
+}
+
+li{
+    text-align: left;
+}
+
+#top{
+    color:rgb(171, 205, 216)
+}
+
+body{
+    background-color:rgb(235, 240, 242);
+}
+
+a{
+    color:grey;
+}
+
+

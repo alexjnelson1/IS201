@@ -1,0 +1,43 @@
+Body{
+    background-color:lightslategrey;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.tableauPlaceholder{
+    width: 50%
+}
+
+.header{
+    height:50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: static;
+    background-color: lightgrey;
+}
+
+.TBody{
+    position: static;
+}
+
+.footer{
+    text-align: center;
+    font-size-adjust: 0.6;
+    font-weight:bold;
+    height:150px;
+    position: static;
+    background-color: lightgrey;
+}
+
+h3{
+    text-align:center;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    color:gray;
+}
